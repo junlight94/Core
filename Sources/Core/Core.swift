@@ -3,4 +3,8 @@ public struct Core {
 
     public init() {
     }
+    
+    public func core() {
+        print("core")
+    }
 }

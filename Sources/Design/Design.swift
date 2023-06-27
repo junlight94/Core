@@ -12,4 +12,8 @@ public struct Design {
 
     public init() {
     }
+    
+    public func design() {
+        print("design")
+    }
 }
